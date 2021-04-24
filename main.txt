@@ -2,5 +2,7 @@ blue
 green
 grey
 black
-
+white
+yellow
+purple
 orange
